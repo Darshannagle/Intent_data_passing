@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="submit">Submit</string>
+    <string name="student_info_form">Student Info. Form</string>
+</resources>
